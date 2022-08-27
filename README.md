@@ -1,4 +1,4 @@
-# Um Cronômetro de Milisegundos à Minutos :D
+# Um Cronômetro de Milisegundos à Minutos
 
 <div align="center">
 
